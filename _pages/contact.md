@@ -1,14 +1,13 @@
 ---
-title:  ""
-permalink: /contact
+layout: page
+title: Contact
 ---
-
 <div align="center">
- <h3>
-    <a href="https://www.twitter.com/KushanthaW" >Twitter</a><br><br>
-    <a href="https://www.linkedin.com/in/kushantha-weragama">LinkedIn</a><br><br>
-    <a href="https://github.com/kushantha7" >Github</a><br><br>
+ <h1>
+    <a href="https://www.twitter.com/KushanthaW" >Twitter</a><br>
+    <a href="https://www.linkedin.com/in/kushantha-weragama">LinkedIn</a><br>
+    <a href="https://github.com/kushantha7" >Github</a><br>
    
 
-</h3>
+</h1>
 </div>
