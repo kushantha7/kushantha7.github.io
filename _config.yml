@@ -47,6 +47,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+sass:
+  sass_dir: _sass
+  style: compressed
+  
 defaults:
   # _posts
   - scope:
