@@ -1,4 +1,5 @@
 ---
 title:  ""
-permalink: /about/
+permalink: /about2
 ---
+ayylmao
