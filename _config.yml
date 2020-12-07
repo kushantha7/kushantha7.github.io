@@ -34,7 +34,6 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 logo: "/assets/images/favi.png"
 
-masthead_title: "Kushantha Weragama"
 
 plugins:
   - jekyll-feed
@@ -46,16 +45,20 @@ defaults:
       type: posts
     values:
       read_time: true
-      comments: true
+      share: true
+   # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      
+include: ["_pages"]
 
 words_per_minute: 185
 
-comments:
-  provider: "facebook"
-  facebook:
-    appid: # optional
-    num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
