@@ -6,7 +6,8 @@ title: Contact
  <h1>
     <a href="https://www.twitter.com/KushanthaW" >Twitter</a><br>
     <a href="https://www.linkedin.com/in/kushantha-weragama">LinkedIn</a><br>
-    <a href="https://github.com/kushantha7" >Github</a><br>
+    <a href="https://github.com/kushantha7" >GitHub</a><br>
+    <a href="https://www.youtube.com/c/KushanthaWeragamakrbhd" >YouTube</a><br>
    
 
 </h1>
