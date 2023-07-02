@@ -6,7 +6,7 @@ title: htlhcdtwy
  <h4>
    ok so elon or one of those crypto bros has sent you to an alternate universe. Your transportation was facilitated using the Large Hadron Collider at CERN.
    Things must have really gone south assuming you clicked the question mark on some personal website (•_•). It's okay , just take a deep breath.
-   The link will check if the planet earth is still online <br> <a href="https://hasthelargehadroncolliderdestroyedtheworldyet.com/" > i hope it's a nope <3 </a><br>
+   The link will check if the planet earth is still online.<a href="https://hasthelargehadroncolliderdestroyedtheworldyet.com/" > i hope it's a nope <3 </a><br>
 </h4>
     
 <h6>
