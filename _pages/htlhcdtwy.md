@@ -16,7 +16,7 @@ title: htlhcdtwy
  <br>
 </h6>
  
- <h4>Heres how Chanux orb saved humanity !!</h4>
+ <h4>Heres how Chanux Orb saved humanity !!</h4>
  <h6>
  "In the year 2067, the planet Earth had become a desolate and inhospitable place for humanity. The consequences of rampant pollution, climate change, and unsustainable practices had taken a toll on the once-thriving ecosystem. Recognizing the urgency of the situation, scientists and engineers embarked on a groundbreaking mission to save humanity from the brink of extinction.
 <br>
