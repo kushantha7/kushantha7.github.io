@@ -42,7 +42,7 @@ News of Earth's revival spread across the universe, rekindling hope and inspirin
 <br>
 And so, in the year 2067, as the alternate universe thrived with the presence of humanity, Earth stood as a symbol of resilience and redemption. It became a sanctuary for those seeking solace in the wonders of nature, a reminder of what could be achieved through collective effort and unwavering determination.
 <br>
-As the years unfolded, humanity thrived in both the alternate universe and the rejuvenated Earth. Chanux Orb's name became synonymous with hope and stewardship, his legacy echoing through the ages as a reminder of the transformative power of love for our home planet."
+As the years unfolded, humanity thrived in both the alternate universe and the rejuvenated Earth. Chanux Orb's name became synonymous with hope and stewardship, his legacy echoing through the ages as a reminder of the transformative power of love for our home planet." <a href="https://chat.openai.com/" > - ChatGPT </a>
 </h6>
   
 </div>
