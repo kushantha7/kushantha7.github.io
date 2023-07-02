@@ -14,7 +14,6 @@ title: htlhcdtwy
  "It's the year 2067 , the planet earth is uninhabitable by humans , almost all of humanity has left the planet to an alternate universe through a wormhole appeared through the large hadron collider at cern.
  Project manager chanux orb and his friends are looking over things from planet earth , maybe to make it habitable again."  complete the above story using 500 words. Make it a happy ending
  <br>
- <br>
 </h6>
  
  <h4>Heres how Chanux orb saved humanity !!</h4>
